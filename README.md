@@ -1,2 +1,2 @@
-# esgf-doi-registry
-ESGF2-US DOI Registration Workflow/Scripts
+# esgf-doi-service
+ESGF2-US DOI Registration Service
