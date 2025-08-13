@@ -67,4 +67,9 @@ ESGF DOI Service will autogenerate landing pages for DOIs using [MyST](https://m
 
 Landing page will follow the [best practices guidelines](https://support.datacite.org/docs/landing-pages) provided by DataCite.
 
+### Citation Format
+
+> Lastname1, Firstname_Initial1, Lastname2, Firstname_Initial2. (YYYY). {institution_id} {source_id} model output prepared for {mip_era} {experiment_id} (Version YYYYMMDD) [Dataset]. Earth System Grid Federation. https://doi.org/XXXXXXXXXXXXXXXXX
+
+
 
