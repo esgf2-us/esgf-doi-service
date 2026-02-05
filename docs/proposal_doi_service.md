@@ -28,9 +28,9 @@ Flowchart below provides an overview of the proposed DOI service.
 ![DOI service workflow](doi_workflow.png)
 
 ### Data granularity for DOIs
-DOIs will be issued for unique combination of `mip_era` + `institution_id` + `source_id` + `experiment_id`
+DOIs will be issued for unique combination of `mip_era` + `activity_id` + `institution_id` + `source_id` + `experiment_id`
 
-Issued DOIs will follow the format: `10.25981/ESGF.{mip_era}.{institution_id}.{source_id}.{experiment_id}/XXXXXX`
+Issued DOIs will follow the format: `10.25981/ESGF.{mip_era}.{activity_id}.{institution_id}.{source_id}.{experiment_id}/XXXXXX`
 
 > [!NOTE]
 > Is this the appropriate granularity for DOIs or should they be different?
